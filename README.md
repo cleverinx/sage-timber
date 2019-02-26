@@ -4,11 +4,6 @@ Sage is a WordPress starter starter theme with a modern front-end development wo
 
 The Sage + Twig starter theme combines the best of both.
 
->Do check out the [Timber Wiki](https://github.com/jarednova/timber/wiki). It will help you to learn Twig and how to set it up with Wordpress.
-
-## Theme installation
-
-Clone the git repo - `git clone git@github.com:studiorabota/sage-twig-theme.git` and then rename the directory to the name of your theme or website.
 
 ## Theme setup
 
